@@ -1,0 +1,1350 @@
+{
+  "instumentsSymbolDescriptions": {
+    "UKOUSD": {
+      "description": "Нефть марки Brent",
+      "subMarket": ""
+    },
+    "USOUSD": {
+      "description": "Нефть марки WTI",
+      "subMarket": ""
+    },
+    "XAGUSD": {
+      "description": "Серебро",
+      "subMarket": ""
+    },
+    "XAUUSD": {
+      "description": "Золото",
+      "subMarket": ""
+    },
+    "XNGUSD": {
+      "description": "Природный газ",
+      "subMarket": ""
+    },
+    "XPDUSD": {
+      "description": "Палладий",
+      "subMarket": ""
+    },
+    "XPTUSD": {
+      "description": "Платина",
+      "subMarket": ""
+    },
+    "AUD": {
+      "description": "Австралийский доллар",
+      "subMarket": ""
+    },
+    "CAD": {
+      "description": "Канадский доллар",
+      "subMarket": ""
+    },
+    "CHF": {
+      "description": "Швейцарский франк",
+      "subMarket": ""
+    },
+    "CNH": {
+      "description": "Китайский юань",
+      "subMarket": ""
+    },
+    "CZK": {
+      "description": "Чешская крона",
+      "subMarket": ""
+    },
+    "DKK": {
+      "description": "Датская крона",
+      "subMarket": ""
+    },
+    "EUR": {
+      "description": "Евро",
+      "subMarket": ""
+    },
+    "GBP": {
+      "description": "Британский фунт",
+      "subMarket": ""
+    },
+    "HKD": {
+      "description": "Гонконгский доллар",
+      "subMarket": ""
+    },
+    "HUF": {
+      "description": "Венгерский форинт",
+      "subMarket": ""
+    },
+    "JPY": {
+      "description": "Японская иена",
+      "subMarket": ""
+    },
+    "MXN": {
+      "description": "Мексиканское песо",
+      "subMarket": ""
+    },
+    "NOK": {
+      "description": "Норвежская крона",
+      "subMarket": ""
+    },
+    "NZD": {
+      "description": "Новозеландский доллар",
+      "subMarket": ""
+    },
+    "PLN": {
+      "description": "Польский злотый",
+      "subMarket": ""
+    },
+    "RUB": {
+      "description": "Российский рубль",
+      "subMarket": ""
+    },
+    "SEK": {
+      "description": "Шведская крона",
+      "subMarket": ""
+    },
+    "SGD": {
+      "description": "Сингапурский доллар",
+      "subMarket": ""
+    },
+    "TRY": {
+      "description": "Турецкая лира",
+      "subMarket": ""
+    },
+    "USD": {
+      "description": "Доллар США",
+      "subMarket": ""
+    },
+    "ZAR": {
+      "description": "Южноафриканский рэнд",
+      "subMarket": ""
+    },
+    "CACEUR": {
+      "description": "Индекс CAC 40",
+      "subMarket": ""
+    },
+    "DAXEUR": {
+      "description": "Индекс DAX",
+      "subMarket": ""
+    },
+    "DOWUSD": {
+      "description": "Индекс Dow Jones",
+      "subMarket": ""
+    },
+    "E50EUR": {
+      "description": "Индекс Euro Stoxx 50",
+      "subMarket": ""
+    },
+    "FTSGBP": {
+      "description": "Индекс FTSE 100",
+      "subMarket": ""
+    },
+    "HSIHKD": {
+      "description": "Индекс Hang Seng",
+      "subMarket": ""
+    },
+    "IBXEUR": {
+      "description": "Индекс IBEX 35",
+      "subMarket": ""
+    },
+    "NKYJPY": {
+      "description": "Индекс Nikkei 225",
+      "subMarket": ""
+    },
+    "NSQUSD": {
+      "description": "Индекс Nasdaq 100",
+      "subMarket": ""
+    },
+    "SP5USD": {
+      "description": "Индекс S&P 500",
+      "subMarket": ""
+    },
+    "SPIAUD": {
+      "description": "Индекс S&P/ASX 200",
+      "subMarket": ""
+    },
+    "APPLE": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "Adobe": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "Adidas": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "Alinma": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "AlJazirBank": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "AlRajhiBank": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "Alujain": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "Amadeus": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "AMAZON": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ArabBank": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "BOEING": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "BankofChina": {
+      "description": "",
+      "subMarket": "asian"
+    },
+    "BankSaFrans": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "Barclays": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "BilbaoXETRA": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "BKNG": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "BHPBilliton": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "BMW": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "BNPParibas": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "CninaRail": {
+      "description": "",
+      "subMarket": "asian"
+    },
+    "Citigroup": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "Chevron": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "DarAlArkan": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "DeutscheBank": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "DIS": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "EBAY": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "Facebook": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "FDX": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "Ford": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "Gazprom": {
+      "description": "",
+      "subMarket": "russian"
+    },
+    "GenElectric": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "GMKN": {
+      "description": "",
+      "subMarket": "russian"
+    },
+    "GOOGLE": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "GoPro": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "GoldmanSach": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "HarleyDavidson": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "HollandBank": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "Iberdrola": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "IBM": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ICBankChina": {
+      "description": "",
+      "subMarket": "asian"
+    },
+    "Intel": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "Diseno": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "JPMorganCh": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "Kingdom": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "COCACOLA": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "LKOH": {
+      "description": "",
+      "subMarket": "russian"
+    },
+    "LMT": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "Mastercard": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ManchesterU": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "MC": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "MCD": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "MICROSOFT": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "MTSS": {
+      "description": "",
+      "subMarket": "russian"
+    },
+    "NatComBnk": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "NatlGasInd": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "NFLX": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "NIKE": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "Audi": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "NVIDIA": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "PYPL": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "PacificSec": {
+      "description": "",
+      "subMarket": "asian"
+    },
+    "PetroChina": {
+      "description": "",
+      "subMarket": "asian"
+    },
+    "PetroRabigh": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "FERRARI": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "RioTinto": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "RiyadBank": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "Renault": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "Rosneft": {
+      "description": "",
+      "subMarket": "russian"
+    },
+    "Sahara": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "Santander": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "SambaGroup": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "SaudElicrto": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "SaudiBasic": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "SaudiBriBank": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "SaudiInvBank": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "SaudiKayan": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "Sberbank": {
+      "description": "",
+      "subMarket": "russian"
+    },
+    "SIBN": {
+      "description": "",
+      "subMarket": "russian"
+    },
+    "Siemens": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "SNAP": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "Tesla": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "URKA": {
+      "description": "",
+      "subMarket": "russian"
+    },
+    "VISA": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "VolksWagen": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "WalMart": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ExxonMobil": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "Yandex": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "BATUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "BitcoinCash": {
+      "description": "",
+      "subMarket": ""
+    },
+    "Bitcoin": {
+      "description": "",
+      "subMarket": ""
+    },
+    "DASHUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "EOSUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "ETCUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "Etherium": {
+      "description": "",
+      "subMarket": ""
+    },
+    "IOTUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "Litecoin": {
+      "description": "",
+      "subMarket": ""
+    },
+    "NEOUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "OMGUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "XAIUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "XLMUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "Monero": {
+      "description": "",
+      "subMarket": ""
+    },
+    "Ripple": {
+      "description": "",
+      "subMarket": ""
+    },
+    "Zcash": {
+      "description": "",
+      "subMarket": ""
+    },
+    "BCHUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "BTCUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "ETHUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "LTCUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "XMRUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "XRPUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "ZECUSD": {
+      "description": "",
+      "subMarket": ""
+    },
+    "AAPL": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ADBE": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ADS": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "AMS": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "AMZN": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "BA": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "BARC": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "BBVA": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "BLT": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "BNP": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "ChinaRail": {
+      "description": "",
+      "subMarket": "asian"
+    },
+    "Citi": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "CVX": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "DB": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "FB": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "GAZP": {
+      "description": "",
+      "subMarket": "russian"
+    },
+    "GE": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "GOOG": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "GPRO": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "GS": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "HOG": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "IBE": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "INTC": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ITX": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "JPM": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "KO": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "MA": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "MANU": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "MSFT": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "NatComBank": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "NKE": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "NSU": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "NVDA": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "RACE": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "RIO": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "RNO": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "ROSN": {
+      "description": "",
+      "subMarket": "russian"
+    },
+    "SAN": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "SaudElectro": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "SBER": {
+      "description": "",
+      "subMarket": "russian"
+    },
+    "SIE": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "TSLA": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "VOW3": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "WMT": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "XOM": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "YNDX": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "CGC": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ACB": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "SMG": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "INSY": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ABBV": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "GWPH": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "HNNA": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "PM": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "PFE": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "RGR": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "SSTI": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "AOBC": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "WU": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "MGI": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "Qiwi": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "BABA": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "LYFT": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "UBER ": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "C": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "BHP": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "SaudiElectro": {
+      "description": "",
+      "subMarket": "arabic"
+    },
+    "ZM": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "GILD": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "NVAX": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "INO": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "SANO": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "GSK": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "BNTX": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "TGT": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ATVI": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "AIR": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "ALV": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "AXP": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "BAS": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "BAYN": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "BEI": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "BYND": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "CON": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "DAI": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "DB1": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "DPW": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "DTE": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "EOAN": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "FRE": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "FME": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "HEI": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "HEN3": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "HLF": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "IFX": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "ITM": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "SDF": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "LIN": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "LHA": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "MED": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "MRNA": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "MUV2": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "NETB": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "NKLA": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "NUS": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ROG": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "RWE": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "SAP": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "RDSB": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "SNE": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "SPOT": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "TKA": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "TM": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "UBER": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "TXG": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ABNB": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ALRS": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "AMC": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "AMD": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "AMGN": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "AU": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ARKK": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "AZN": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "BAC": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "GOLD": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "AVGO": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "CCL": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "CSCO": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "CLF": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "NET": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "COIN": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "CRWD": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "DASH": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "DPST": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ENPH": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "NVST": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "FSLR": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "GME": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "GUSH": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "HDB": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "HON": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "HMMJ": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "JNJ": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "JMIA": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "LABU": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "LEVI": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "MNDY": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "NAIL": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "NEM": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "NIO": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "NCLH": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "OKTA": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ORCL": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "PG": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "PHR": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "QCOM": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "QS": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "RS": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "HOOD": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "RBLX": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "RCL": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "CRM": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "SDC": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "SCCO": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "SOXL": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "SWTX": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "SQ": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "RUN": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "TECL": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "TSM": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "TWTR": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "VZ": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "SPCE": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "ZS": {
+      "description": "",
+      "subMarket": "american"
+    },
+    "BP": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "CDR": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "MLS": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "NESN": {
+      "description": "",
+      "subMarket": "european"
+    },
+    "GCHE": {
+      "description": "",
+      "subMarket": "russian"
+    },
+    "AGRO": {
+      "description": "",
+      "subMarket": "russian"
+    },
+    "TMK": {
+      "description": "",
+      "subMarket": "russian"
+    },
+    "SMSN": {
+      "description": "",
+      "subMarket": "european"
+    }
+  },
+  "instumentsSubMarketDescriptions": {
+    "american": {
+      "shortName": "АМ",
+      "fullName": "Американские"
+    },
+    "asian": {
+      "shortName": "АЗ",
+      "fullName": "Азиатские"
+    },
+    "european": {
+      "shortName": "ЕВ",
+      "fullName": "Европейские"
+    },
+    "arabic": {
+      "shortName": "АР",
+      "fullName": "Арабские"
+    },
+    "russian": {
+      "shortName": "РУ",
+      "fullName": "Российские"
+    }
+  }
+}
