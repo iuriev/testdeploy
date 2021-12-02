@@ -1,5 +1,9 @@
 {
   "instumentsSymbolDescriptions": {
+    "xz": {
+      "description": "хз декспритион",
+      "subMarket": ""
+    },
     "UKOUSD": {
       "description": "Нефть марки Brent",
       "subMarket": ""
