@@ -4,6 +4,10 @@
       "description": "хз декспритион",
       "subMarket": ""
     },
+    "xrter": {
+      "description": "хз декспритион",
+      "subMarket": ""
+    },
     "UKOUSD": {
       "description": "Нефть марки Brent",
       "subMarket": ""
